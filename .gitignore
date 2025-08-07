@@ -1,0 +1,26 @@
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+logs/
+
+# Personal notes (not part of the knowledge base)
+personal-notes/
+private/
+
+# AI agent configurations (Claude specific)
+.claude/
+CLAUDE.md
