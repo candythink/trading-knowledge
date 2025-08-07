@@ -1,86 +1,86 @@
-# Trading Knowledge Repository
+# คลังความรู้การเทรดดิ้ง (Trading Knowledge Repository)
 
-A comprehensive collection of trading concepts, calculations, and strategies for forex and financial markets. This repository serves as a centralized knowledge base for traders, covering fundamental concepts through advanced strategies.
+คอลเลคชั่นที่ครอบคลุมเกี่ยวกับแนวคิด การคำนวณ และกลยุทธ์การเทรดสำหรับตลาดฟอเร็กซ์และตลาดการเงิน เป็นฐานความรู้ส่วนกลางสำหรับเทรดเดอร์ ครอบคลุมตั้งแต่แนวคิดพื้นฐานไปจนถึงกลยุทธ์ขั้นสูง
 
-## Purpose and Scope
+## วัตถุประสงค์และขอบเขต
 
-This repository is designed to provide:
+คลังความรู้นี้มีจุดประสงค์เพื่อมอบ:
 
-- **Fundamental trading concepts** - Core principles that every trader needs to understand
-- **Mathematical calculations** - Precise formulas and examples for risk management
-- **Practical applications** - Real-world examples and use cases
-- **Risk management strategies** - Methods to protect and preserve capital
-- **Market analysis techniques** - Tools and approaches for market evaluation
+- **แนวคิดพื้นฐานการเทรดดิ้ง** - หลักการหลักที่เทรดเดอร์ทุกคนต้องเข้าใจ
+- **การคำนวณทางคณิตศาสตร์** - สูตรที่แม่นยำและตัวอย่างสำหรับการจัดการความเสี่ยง
+- **การประยุกต์ใช้จริง** - ตัวอย่างและกรณีศึกษาจากโลกแห่งความเป็นจริง
+- **กลยุทธ์การจัดการความเสี่ยง** - วิธีการปกป้องและรักษาเงินทุน
+- **เทคนิคการวิเคราะห์ตลาด** - เครื่องมือและแนวทางสำหรับการประเมินตลาด
 
-## Target Audience
+## กลุ่มเป้าหมาย
 
-- Beginning traders looking to understand fundamental concepts
-- Intermediate traders seeking to deepen their knowledge
-- Trading educators and mentors
-- Anyone interested in financial market mechanics
+- เทรดเดอร์มือใหม่ที่ต้องการเข้าใจแนวคิดพื้นฐาน
+- เทรดเดอร์ระดับกลางที่ต้องการเพิ่มพูนความรู้
+- ผู้สอนและที่ปรึกษาด้านการเทรดดิ้ง
+- ผู้ที่สนใจกลไกของตลาดการเงิน
 
-## Repository Structure
+## โครงสร้างของคลังความรู้
 
-All trading topics are organized as individual markdown files, with each topic covering specific areas of trading knowledge. The repository follows a documentation-first approach, emphasizing clarity and practical application.
+หัวข้อการเทรดทั้งหมดถูกจัดเรียงเป็นไฟล์ markdown แยกต่างหาก โดยแต่ละหัวข้อครอบคลุมความรู้เฉพาะด้านการเทรดดิ้ง คลังความรู้นี้ใช้แนวทางเอกสารเป็นหลัก เน้นความชัดเจนและการนำไปใช้จริง
 
-## Topics Index
+## ดัชนีหัวข้อ
 
-### Forex Trading Fundamentals
+### พื้นฐานการเทรดฟอเร็กซ์
 
-- [Forex Basic Calculations](forex-basic-calculation.md) - Lot Size, Leverage, Margin, Pip and Point calculations for EUR/USD and other currency pairs
+- [การคำนวณฟอเร็กซ์ขั้นพื้นฐาน](forex-basic-calculation.md) - การคำนวณ Lot Size, Leverage, Margin, Pip และ Point สำหรับ EUR/USD และคู่สกุลเงินอื่นๆ
 
-## Contributing Guidelines
+## แนวทางการมีส่วนร่วม
 
-### Adding New Topics
+### การเพิ่มหัวข้อใหม่
 
-1. **File Naming Convention**: Use descriptive, lowercase names with hyphens
+1. **รูปแบบการตั้งชื่อไฟล์**: ใช้ชื่อที่อธิบายได้ตัวอักษรพิมพ์เล็ก และใส่เครื่องหมายขีดกลาง
    - ✅ `risk-management-strategies.md`
    - ✅ `technical-analysis-basics.md`
    - ❌ `RiskManagement.md`
    - ❌ `tech_analysis.md`
 
-2. **Content Structure**: Each topic file should include:
-   - Clear title and introduction
-   - Well-organized sections with headers
-   - Practical examples with calculations
-   - Key takeaways or summary points
-   - Warnings or important considerations where applicable
+2. **โครงสร้างเนื้อหา**: ไฟล์หัวข้อแต่ละไฟล์ควรประกอบด้วย:
+   - หัวเรื่องและบทนำที่ชัดเจน
+   - ส่วนต่างๆ ที่จัดระเบียบดีพร้อมหัวข้อย่อย
+   - ตัวอย่างจริงพร้อมการคำนวณ
+   - จุดสำคัญหรือสรุปประเด็น
+   - คำเตือนหรือข้อควรพิจารณาที่สำคัญ (ถ้ามี)
 
-3. **Formatting Standards**:
-   - Use consistent markdown formatting
-   - Include code blocks for formulas and calculations
-   - Add tables for comparative information
-   - Use bullet points for lists and key concepts
-   - Include relevant images or diagrams where helpful
+3. **มาตรฐานการจัดรูปแบบ**:
+   - ใช้การจัดรูปแบบ markdown ที่สอดคล้องกัน
+   - รวม code blocks สำหรับสูตรและการคำนวณ
+   - เพิ่มตารางสำหรับข้อมูลเปรียบเทียบ
+   - ใช้จุดแสดงรายการสำหรับรายการและแนวคิดสำคัญ
+   - รวมรูปภาพหรือแผนภาพที่เกี่ยวข้องเมื่อเป็นประโยชน์
 
-4. **Update Process**:
-   - Create your new topic file following the naming convention
-   - Add the topic to the Topics Index section in this README.md
-   - Ensure consistent style with existing content
-   - Test all calculations and examples for accuracy
+4. **กระบวนการอัปเดต**:
+   - สร้างไฟล์หัวข้อใหม่ตามรูปแบบการตั้งชื่อ
+   - เพิ่มหัวข้อในส่วนดัชนีหัวข้อใน README.md นี้
+   - ให้แน่ใจว่าสไตล์สอดคล้องกับเนื้อหาที่มีอยู่
+   - ทดสอบการคำนวณและตัวอย่างทั้งหมดเพื่อความแม่นยำ
 
-### Content Guidelines
+### แนวทางเนื้อหา
 
-- **Clarity First**: Write for understanding, not to impress
-- **Practical Focus**: Include real-world examples and applications
-- **Accuracy**: Verify all calculations and financial concepts
-- **Safety**: Emphasize risk management and responsible trading practices
-- **Language**: Support both English and Thai content as appropriate
+- **ความชัดเจนเป็นหลัก**: เขียนเพื่อความเข้าใจ ไม่ใช่เพื่อประทับใจ
+- **เน้นการใช้งานจริง**: รวมตัวอย่างและการประยุกต์ใช้จริง
+- **ความแม่นยำ**: ตรวจสอบการคำนวณและแนวคิดทางการเงินทั้งหมด
+- **ความปลอดภัย**: เน้นการจัดการความเสี่ยงและแนวทางการเทรดดิ้งที่รับผิดชอบ
+- **ภาษา**: รองรับเนื้อหาทั้งภาษาอังกฤษและไทยตามความเหมาะสม
 
-### Maintenance
+### การบำรุงรักษา
 
-- Keep the Topics Index updated with all new files
-- Review and update content periodically for accuracy
-- Ensure links between related topics work correctly
-- Maintain consistent formatting across all files
+- อัปเดตดัชนีหัวข้อให้ทันสมัยกับไฟล์ใหม่ทั้งหมด
+- ตรวจสอบและอัปเดตเนื้อหาเป็นระยะเพื่อความแม่นยำ
+- ให้แน่ใจว่าการเชื่อมโยงระหว่างหัวข้อที่เกี่ยวข้องทำงานได้อย่างถูกต้อง
+- รักษาการจัดรูปแบบที่สอดคล้องกันในทุกไฟล์
 
-## Getting Started
+## เริ่มต้นใช้งาน
 
-1. Browse the Topics Index to find subjects of interest
-2. Each topic is self-contained but may reference other related topics
-3. Follow along with calculations using the provided examples
-4. Apply concepts gradually in practice or simulation environments
+1. เรียกดูดัชนีหัวข้อเพื่อหาหัวข้อที่น่าสนใจ
+2. แต่ละหัวข้อเป็นอิสระ แต่อาจอ้างอิงหัวข้ออื่นที่เกี่ยวข้อง
+3. ทำการคำนวณตามไปด้วยตัวอย่างที่มีให้
+4. นำแนวคิดไปประยุกต์ใช้อย่างค่อยเป็นค่อยไปในสภาพแวดล้อมการฝึกหัดหรือจำลอง
 
-## Disclaimer
+## ข้อปฏิเสธความรับผิดชอบ
 
-This repository is for educational purposes only. Trading involves substantial risk and is not suitable for all investors. Always conduct your own research and consider consulting with qualified financial advisors before making trading decisions.
+คลังความรู้นี้มีไว้เพื่อการศึกษาเท่านั้น การเทรดดิ้งมีความเสี่ยงสูงและไม่เหมาะสำหรับนักลงทุนทุกคน ควรศึกษาค้นคว้าด้วยตนเองเสมอ และพิจารณาปรึกษากับที่ปรึกษาทางการเงินที่มีคุณสมบัติก่อนตัดสินใจเทรดดิ้ง
